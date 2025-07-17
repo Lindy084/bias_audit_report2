@@ -1,0 +1,26 @@
+id,age,gender,race,income,outcome
+1,25,Male,White,50000,1
+2,30,Female,Black,48000,0
+3,22,Male,Hispanic,52000,1
+4,28,Female,White,60000,1
+5,35,Male,Black,45000,0
+6,40,Female,Hispanic,47000,0
+7,29,Male,White,53000,1
+8,33,Female,Black,49000,0
+9,27,Male,Hispanic,51000,1
+10,31,Female,White,58000,1
+
+
+
+id: Unique identifier
+
+age: Age of the person
+
+gender: Gender group
+
+race: Race/ethnicity
+
+income: Annual income in USD
+
+outcome: Binary label (e.g., loan approved=1, denied=0)
+

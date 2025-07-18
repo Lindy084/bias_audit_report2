@@ -17,15 +17,6 @@ Built with ❤️ and deployed with [Streamlit](https://streamlit.io/), this too
 | 🎨 Visuals           | Matplotlib & Seaborn for interactive graphs                  |
 | ✅ Outcome           | Accuracy comparison: before vs after bias mitigation         |
 
----
-
-## 🖼️ Screenshots
-
-> Example visuals: bias metrics before/after mitigation, demographic parity bar charts, and performance comparison.
-
-*(Add screenshots here if you’d like!)*
-
----
 
 ## 🚀 How to Run Locally
 
@@ -51,7 +42,7 @@ Built with ❤️ and deployed with [Streamlit](https://streamlit.io/), this too
 
 ## 🌐 Try the App Online
 
-▶️ **Live App:** [Click here to open the deployed app](https://biasauditreport2-5z9woxqyf8l9fewza6npq3.streamlit.app/)
+▶️ **Live App: (https://biasauditreport2-5z9woxqyf8l9fewza6npq3.streamlit.app/)
 
 
 ## 👩‍💻 Tech Stack

@@ -4,7 +4,9 @@
 
 Built with ❤️ and deployed with [Streamlit](https://streamlit.io/), this tool enables transparency and fairness assessment in machine learning models.
 
----
+## 🌐 Try the App Online
+
+▶️ **Live App: (https://biasauditreport2-5z9woxqyf8l9fewza6npq3.streamlit.app/)
 
 ## 📁 Project Overview
 
@@ -36,13 +38,9 @@ Built with ❤️ and deployed with [Streamlit](https://streamlit.io/), this too
 
    ```bash
    streamlit run app.py
-   ```
 
----
 
-## 🌐 Try the App Online
-
-▶️ **Live App: (https://biasauditreport2-5z9woxqyf8l9fewza6npq3.streamlit.app/)
+)
 
 
 ## 👩‍💻 Tech Stack

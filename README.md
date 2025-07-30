@@ -1,12 +1,12 @@
 # 🔍 Bias Audit Report – AI Fairness with Streamlit
 
-🎯 This interactive **Bias Audit Report** investigates and mitigates gender bias in the **Adult Income Dataset**, using IBM’s AI Fairness 360 toolkit.
+🎯 This interactive Bias Audit Report investigates and mitigates gender bias in the Adult Income Dataset, using IBM’s AI Fairness 360 toolkit.
 
 Built with ❤️ and deployed with [Streamlit](https://streamlit.io/), this tool enables transparency and fairness assessment in machine learning models.
 
 ## 🌐 Try the App Online
 
-▶️ **Live App: (https://biasauditreport2-5z9woxqyf8l9fewza6npq3.streamlit.app/)
+▶️ Live App: (https://biasauditreport2-5z9woxqyf8l9fewza6npq3.streamlit.app/)
 
 ## 📁 Project Overview
 
@@ -23,20 +23,18 @@ Built with ❤️ and deployed with [Streamlit](https://streamlit.io/), this too
 ## 🚀 How to Run Locally
 
 1. Clone the repo:
-   ```bash
+   bash
    git clone https://github.com/your-username/bias-audit-app.git
    cd bias-audit-app
-````
 
 2. Install dependencies:
 
-   ```bash
+   bash
    pip install -r requirements.txt
-   ```
-
+   
 3. Run the app:
 
-   ```bash
+   bash
    streamlit run app.py
 
 
@@ -59,4 +57,3 @@ Made with care by Lindiwe Ndlazi
 💡 [Connect with me on LinkedIn](https://www.linkedin.com/in/ndlazi-lindiwe-76baa6229)
 
 
-```
